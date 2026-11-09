@@ -12,4 +12,9 @@ to use the template enter lc + enter
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahmedliouane0/Problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/ahmedliouane0/Problem_solving/tree/master/1332-remove-palindromic-subsequences) |
+## String
+|  |
+| ------- |
+| [1332-remove-palindromic-subsequences](https://github.com/ahmedliouane0/Problem_solving/tree/master/1332-remove-palindromic-subsequences) |
 <!---LeetCode Topics End-->
