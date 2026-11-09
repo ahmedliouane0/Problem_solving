@@ -17,4 +17,8 @@ to use the template enter lc + enter
 |  |
 | ------- |
 | [1332-remove-palindromic-subsequences](https://github.com/ahmedliouane0/Problem_solving/tree/master/1332-remove-palindromic-subsequences) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ahmedliouane0/Problem_solving/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
